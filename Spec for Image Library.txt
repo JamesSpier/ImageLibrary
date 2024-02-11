@@ -1,0 +1,20 @@
+11/30/2023:
+- build SQL database for all photos in photos folder
+- use Python
+- add an entry for each photo
+- add exif tags to database
+
+Next steps:
+- build a viewer
+- add keywords
+
+2/10/2024:
+DONE - create a config file to tell what folders to look in
+DONE - create a list of all .jpg files
+- load the list into a spreadsheet
+
+
+
+
+
+
